@@ -40,4 +40,5 @@ function onBtnSubmitClick(evt) {
         }
       }, delay);
     });
-  };
+  }
+}
